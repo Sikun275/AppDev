@@ -6,3 +6,6 @@ L2Demo
     
 L3Demo
     Implements a simple card game where a player and the CPU (computer) draw random cards, and their scores are updated based on the higher card value. The game features dynamic updates to card images and scores with a button to “deal” new cards.
+
+PacMan
+    The classic pacman game, 95% finished, not gonna do the rest.
