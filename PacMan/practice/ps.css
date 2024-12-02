@@ -1,0 +1,27 @@
+.grid{
+    width: 600px;
+    height: 600px;
+    border: solid black;
+    background-color: aqua;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.grid div{
+    width: 30px;
+    height: 30px;
+    background-color: blue;
+}
+
+.blk{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+}
+
+.red{
+    width: 30px;
+    height: 30px;
+    background-color: red;
+}
