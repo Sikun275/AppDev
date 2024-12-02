@@ -9,3 +9,6 @@ L3Demo
 
 PacMan
     The classic pacman game, 95% finished, not gonna do the rest.
+
+MyCryptoCal / MySimpleCrypto
+    AppDev for my crypto revenue calculation, pure personal interest for this satge, not sure publish or not in the future, still need more amendment. 
