@@ -11,4 +11,7 @@ PacMan
     The classic pacman game, 95% finished, not gonna do the rest.
 
 MyCryptoCal / MySimpleCrypto
-    AppDev for my crypto revenue calculation, pure personal interest for this satge, not sure publish or not in the future, still need more amendment. 
+    AppDev for my crypto revenue calculation, pure personal interest for this satge, not sure publish or not in the future, still need more amendment. ABORTED!
+
+CryptoCalculator
+     This is the final version of my personal APP dev for this subject around crypto, I'll add more features to make it more comprehensive and well-rounded later on. With help from DeepSeek-V3. 
